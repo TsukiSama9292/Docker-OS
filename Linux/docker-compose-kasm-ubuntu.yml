@@ -1,0 +1,4 @@
+services:
+  kasmweb:
+    image: kasmweb/kasmvnc:ubuntu
+    container_name: kasm-ubuntu
