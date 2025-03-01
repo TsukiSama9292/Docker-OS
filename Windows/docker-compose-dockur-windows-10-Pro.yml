@@ -1,5 +1,5 @@
 services:
-  windows:
+  windows-10-pro:
     image: dockurr/windows
     container_name: windows-10-pro
     environment:

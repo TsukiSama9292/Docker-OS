@@ -1,5 +1,5 @@
 services:
-  macos:
+  macos-13:
     image: dockurr/macos
     container_name: macos-13
     environment:
